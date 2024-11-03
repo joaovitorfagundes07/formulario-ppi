@@ -1,0 +1,32 @@
+{
+  "name": "formulario-ppi",
+  "version": "1.0.0",
+  "description": "formulario de ppi",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaovitorfagundes07/formulario-ppi.git"
+  },
+  "keywords": [
+    "HTTP",
+    "POST",
+    "Javascript",
+    "node",
+    "express"
+  ],
+  "author": "joao vitor santos de lima fagundes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaovitorfagundes07/formulario-ppi/issues"
+  },
+  "homepage": "https://github.com/joaovitorfagundes07/formulario-ppi#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "formulario-ppi": "file:"
+  }
+}
